@@ -34,7 +34,7 @@ URL = "pages/apply"
 name = "Apply"
 weight = 3
 [[menu.main]]
-URL = "/partners"
+URL = "/partner"
 name = "Our Partners"
 weight = 4
 [params]
