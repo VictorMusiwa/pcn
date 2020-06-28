@@ -3,6 +3,7 @@ title: "Jane Hango: Co-founder and Vice Chairperson"
 draft: false
 image : "images/team/jane.jpg"
 bg_image: "images/page-title.jpg"
+weight: 2
 ---
 
 ## Jane Hango: Co-founder and Vice Chairperson

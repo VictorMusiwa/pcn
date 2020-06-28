@@ -3,6 +3,7 @@ title: "Magano Kafula: Outdoor Coordinator"
 draft: false
 image : "images/team/magano.jpg"
 bg_image: "images/page-title.jpg"
+weight: 8
 ---
 
 ## Magano Kafula: Outdoor Coordinator

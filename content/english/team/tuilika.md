@@ -3,6 +3,7 @@ title: "Tuilika Andreas: Co-founder and Project Coordinator"
 draft: false
 image : "images/team/tuilika.jpg"
 bg_image: "images/page-title.jpg"
+weight: 3
 ---
 
 ## Tuilika Andreas: Co-founder and Project Coordinator 

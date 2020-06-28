@@ -3,6 +3,7 @@ title: "Ainley Amunyela: Culinary Guru"
 draft: false
 image : "images/team/ainley.jpg"
 bg_image: "images/page-title.jpg"
+weight: 9
 ---
 
 ## Ainley Amunyela: Culinary Guru

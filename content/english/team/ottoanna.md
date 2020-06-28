@@ -3,6 +3,7 @@ title: "Otto Anna: Course coordinator"
 draft: false
 image : "images/team/ottoanna.jpg"
 bg_image: "images/page-title.jpg"
+weight: 5
 ---
 
 ## Otto Anna: Course coordinator

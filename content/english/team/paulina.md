@@ -3,6 +3,7 @@ title: "Paulina Hambata: Co-founder, Editor General and Public Relations Officer
 draft: false
 image : "images/team/paulina.jpg"
 bg_image: "images/page-title.jpg"
+weight: 4
 ---
 
 ## Paulina Hambata: Co-founder, Editor General and Public Relations Officer

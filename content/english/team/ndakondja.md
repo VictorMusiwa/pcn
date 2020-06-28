@@ -3,6 +3,7 @@ title: "Ndakondja Uusiku: Founder and Chairperson"
 draft: false
 image : "images/team/ndakondja.jpg"
 bg_image: "images/page-title.jpg"
+weight: 1
 ---
 
 ## Ndakondja Uusiku: Founder and Chairperson

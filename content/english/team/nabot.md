@@ -3,6 +3,7 @@ title: "Nabot Tomas: Outdoor Coordinator"
 draft: false
 image : "images/team/nabot.jpg"
 bg_image: "images/page-title.jpg"
+weight: 7
 ---
 
 ## Nabot Tomas: Outdoor Coordinator

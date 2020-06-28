@@ -3,6 +3,7 @@ title: "Prince Eelu: Course coordinator"
 draft: false
 image : "images/team/prince.jpg"
 bg_image: "images/page-title.jpg"
+weight: 10
 ---
 
 ## Prince Eelu: Course coordinator

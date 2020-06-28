@@ -3,6 +3,7 @@ title: "Bongumenzi Khumalo aka BJ: Head of Accommodation"
 draft: false
 image : "images/team/bongumenzi.jpg"
 bg_image: "images/page-title.jpg"
+weight: 6
 ---
 
 ## Bongumenzi Khumalo aka BJ: Head of Accommodation
